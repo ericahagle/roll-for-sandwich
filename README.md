@@ -1,5 +1,5 @@
 # 🎲 roll-for-sandwich 🥪
-Python game based on the popular [Roll for Sandwich](https://www.tiktok.com/channel/roll-for-sandwich?lang=en) TikTok
+Python game based on the popular [Roll for Sandwich](http://www.tiktok.com/@adventuresinaardia) TikTok
 
 # Starting the Game
 ```
